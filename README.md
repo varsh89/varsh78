@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on opensource
 - 🤔 I’m looking for help with algorithms
-- 💬 Ask me about 
-- 📫 How to reach me: ...
+- 💬 Ask me about designing
+- 📫 How to reach me: 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
