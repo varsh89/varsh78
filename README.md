@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste __/\__
 
 <!--
 **varsh78/varsh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
