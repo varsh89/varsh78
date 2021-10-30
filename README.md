@@ -6,8 +6,7 @@
 - 💬 Ask me about - (nobody are perfect!!)
 - 📫 How to reach me: you already reached me!!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: little crazy
--->
+- ⚡ Fun fact: little crazy :D
 
 <!--
 **varsh78/varsh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
