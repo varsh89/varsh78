@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on opensource
 - 🤔 I’m looking for help with algorithms
-- 💬 Ask me about designing
-- 📫 How to reach me: 
+- 💬 Ask me about - (nobody are perfect!!)
+- 📫 How to reach me: you already reached me!!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: little crazy
 -->
 
 <!--
